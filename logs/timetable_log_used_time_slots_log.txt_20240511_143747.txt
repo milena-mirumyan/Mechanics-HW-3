@@ -1,0 +1,4 @@
+Number of Slots: 10
+Shift: 5
+Iteration Index: 8
+Used Time Slots: [0, 1, 2, 3, 4, 6, 7, 8, 9]

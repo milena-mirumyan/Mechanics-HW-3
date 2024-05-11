@@ -1,0 +1,1 @@
+Iterations = 4	Shift = 7	Min clashes = 2	at step 4

@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class CourseArray {
@@ -12,10 +13,10 @@ public class CourseArray {
 		for (int i = 1; i < elements.length; i++) 
 			elements[i] = new Course();
 	}
-	
+
 	public void readClashes(String filename) {
 		try {
-			BufferedReader file = new BufferedReader(new FileReader("src/"+filename));
+			BufferedReader file = new BufferedReader(new FileReader("C:\\Users\\User\\Desktop\\Mechanics-HW-3-master\\Scheduling\\src\\"+filename));
 			StringTokenizer line = new StringTokenizer(file.readLine());
 			int count = line.countTokens(), i, j, k;
 			int index[];
@@ -89,5 +90,21 @@ public class CourseArray {
 	public void printResult() {
 		for (int i = 1; i < elements.length; i++)
 			System.out.println(i + "\t" + elements[i].mySlot);
+	}
+
+	public int[] getTimeSlot(int slotIndex) {
+		int[] timeSlot = new int[elements.length];
+
+		// Initialize all elements to -1
+		Arrays.fill(timeSlot, -1);
+
+		// Check each course and mark the ones scheduled in the specified time slot as 1
+		for (int i = 1; i < elements.length; i++) {
+			if (elements[i].mySlot == slotIndex) {
+				timeSlot[i] = 1;
+			}
+		}
+
+		return timeSlot;
 	}
 }

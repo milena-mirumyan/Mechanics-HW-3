@@ -1,0 +1,237 @@
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 27
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 46
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 102
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 105
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 111
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 125
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 126
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 133
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 185
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 186
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 187
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 188
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 189
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 190
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 191
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 192
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 193
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 194
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 195
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 196
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 197
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 198
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 199
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 200
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 201
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 202
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 203
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 204
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 205
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 206
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 207
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 208
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 209
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 210
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 211
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 212
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 213
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 214
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 215
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 216
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 217
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 218
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 219
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 220
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 221
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 222
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 223
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 224
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 225
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 226
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 227
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 228
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 229
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 230
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 231
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 232
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 233
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 234
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 235
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 236
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 237
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 238
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 239
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 240
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 241
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 242
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 243
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 244
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 245
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 246
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 247
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 248
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 249
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 250
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 251
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 252
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 253
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 254
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 255
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 256
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 257
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 258
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 259
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 260
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 261
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 262
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 263
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 264
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 265
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 266
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 267
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 268
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 269
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 270
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 271
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 272
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 273
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 274
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 275
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 276
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 277
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 278
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 279
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 280
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 281
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 282
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 283
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 284
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 285
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 286
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 287
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 288
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 289
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 290
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 291
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 292
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 293
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 294
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 295
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 296
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 297
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 298
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 299
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 300
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 301
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 302
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 303
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 304
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 305
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 306
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 307
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 308
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 309
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 310
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 311
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 312
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 313
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 314
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 315
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 316
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 317
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 318
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 319
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 320
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 321
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 322
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 323
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 324
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 325
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 326
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 327
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 328
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 329
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 330
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 331
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 332
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 333
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 334
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 335
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 336
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 337
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 338
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 339
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 340
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 341
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 342
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 343
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 344
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 345
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 346
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 347
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 348
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 349
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 350
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 351
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 352
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 353
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 354
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 355
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 356
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 357
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 358
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 359
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 360
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 361
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 362
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 363
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 364
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 365
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 366
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 367
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 368
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 369
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 370
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 371
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 372
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 373
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 374
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 375
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 376
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 377
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 378
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 379
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 380
+Number of slots: 0	Shift: 	Iteration index: 1	Timeslot index: 381
+Iterations = 1	Shift = 1	Min clashes = 1452	at step 1
+Iterations = 1	Shift = 1	Min clashes = 1332	at step 1
+Iterations = 1	Shift = 1	Min clashes = 1264	at step 1
+Iterations = 1	Shift = 1	Min clashes = 1184	at step 1
+Iterations = 1	Shift = 1	Min clashes = 1106	at step 1
+Iterations = 1	Shift = 1	Min clashes = 1078	at step 1
+Iterations = 1	Shift = 1	Min clashes = 1044	at step 1
+Iterations = 1	Shift = 1	Min clashes = 988	at step 1
+Iterations = 1	Shift = 1	Min clashes = 918	at step 1
+Iterations = 1	Shift = 1	Min clashes = 842	at step 1
+Iterations = 1	Shift = 1	Min clashes = 752	at step 1
+Iterations = 1	Shift = 1	Min clashes = 688	at step 1
+Iterations = 1	Shift = 1	Min clashes = 624	at step 1
+Iterations = 1	Shift = 1	Min clashes = 566	at step 1
+Iterations = 1	Shift = 1	Min clashes = 520	at step 1
+Iterations = 1	Shift = 1	Min clashes = 442	at step 1
+Iterations = 1	Shift = 1	Min clashes = 384	at step 1
+Iterations = 1	Shift = 1	Min clashes = 320	at step 1
+Iterations = 1	Shift = 1	Min clashes = 268	at step 1
+Iterations = 1	Shift = 1	Min clashes = 214	at step 1
+Iterations = 1	Shift = 1	Min clashes = 158	at step 1
+Iterations = 1	Shift = 1	Min clashes = 116	at step 1
+Iterations = 1	Shift = 1	Min clashes = 88	at step 1
+Iterations = 1	Shift = 1	Min clashes = 68	at step 1
+Iterations = 1	Shift = 1	Min clashes = 56	at step 1
+Iterations = 1	Shift = 1	Min clashes = 52	at step 1
+Iterations = 1	Shift = 1	Min clashes = 40	at step 1
+Iterations = 1	Shift = 1	Min clashes = 34	at step 1
+Iterations = 1	Shift = 1	Min clashes = 18	at step 1
+Iterations = 1	Shift = 1	Min clashes = 6	at step 1
+Iterations = 1	Shift = 1	Min clashes = 2	at step 1
+Iterations = 1	Shift = 1	Min clashes = 0	at step 1
