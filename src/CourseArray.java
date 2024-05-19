@@ -16,7 +16,7 @@ public class CourseArray {
 
 	public void readClashes(String filename) {
 		try {
-			BufferedReader file = new BufferedReader(new FileReader("C:\\Users\\User\\Desktop\\Mechanics-HW-3-master\\Scheduling\\src\\"+filename));
+			BufferedReader file = new BufferedReader(new FileReader("C:\\Users\\user\\Desktop\\Mechanics-HW-3-master\\Mechanics\\src\\"+filename));
 			StringTokenizer line = new StringTokenizer(file.readLine());
 			int count = line.countTokens(), i, j, k;
 			int index[];

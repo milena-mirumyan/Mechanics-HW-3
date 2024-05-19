@@ -56,10 +56,11 @@ public class TimeTable extends JFrame implements ActionListener {
             tools.add(tool[i]);
         }
 
-        field[0].setText("10");
-        field[1].setText("381");
-        field[2].setText("ute-s-92.stu");
-        field[3].setText("1");
+        field[0].setText("28");
+        field[1].setText("543");
+        field[2].setText("car-f-92.stu");
+        field[3].setText("100");
+        field[4].setText("12");
     }
 
     public void draw() {
@@ -104,7 +105,7 @@ public class TimeTable extends JFrame implements ActionListener {
                 }
                 System.out.println("Shift = " + field[4].getText() + "\tMin clashes = " + min + "\tat step " + step);
                 setVisible(true);
-                logFile.write("Iterations = " + field[3].getText() + "\tShift = " + field[4].getText() + "\tMin clashes = " + min + "\tat step " + step);
+                logFile.write("NumOfSlots = " + field[0].getText() + "\tNumOfCourses = " + field[1].getText() + "\tIterations = " + field[3].getText() + "\tShift = " + field[4].getText() + "\tMin clashes = " + min + "\tat step " + step);
                 break;
             case 2:
                 courses.iterate(Integer.parseInt(field[4].getText()));
@@ -131,7 +132,7 @@ public class TimeTable extends JFrame implements ActionListener {
                         }
                     }
                     System.out.println("Shift = " + field[4].getText() + "\tMin clashes = " + min + "\tat step " + step);
-                    logFile.write("Iterations = " + field[3].getText() + "\tShift = " + field[4].getText() + "\tMin clashes = " + min + "\tat step " + step);
+                    logFile.write("NumOfSlots = " + field[0].getText() + "\tNumOfCourses = " + field[1].getText() + "\tIterations = " + field[3].getText() + "\tShift = " + field[4].getText() + "\tMin clashes = " + min + "\tat step " + step);
                     setVisible(true);
                 } else {
                     System.out.println("The number of clashes is 0. The algorithm is complete.");
@@ -168,20 +169,6 @@ public class TimeTable extends JFrame implements ActionListener {
         return Arrays.copyOf(clashFreeSlots, count);
     }
 
-    public void saveUsedTimeSlotsLog(int numSlots, int shift, int iteration, int[] usedTimeSlots) {
-        try {
-            logFile = new LogFile("used_time_slots_log.txt"); // Create log file
-            logFile.write("Number of Slots: " + numSlots);
-            logFile.write("Shift: " + shift);
-            logFile.write("Iteration Index: " + iteration);
-            logFile.write("Used Time Slots: " + Arrays.toString(usedTimeSlots));
-            logFile.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-            // Handle the exception
-        }
-    }
-
     public void closeLogFile() {
         logFile.close();
     }
@@ -196,30 +183,13 @@ public class TimeTable extends JFrame implements ActionListener {
             // Train Autoassociator with clash-free timeslots
             trainAutoassociatorWithClashFreeSlots(clashFreeSlots);
 
-            // Save log information
-            saveUsedTimeSlotsLog(Integer.parseInt(field[0].getText()), shifts, i, clashFreeSlots);
 
             // Perform unit updates using trained Autoassociator
             int[] updatedSlots = new int[]{autoassociator.unitUpdate(clashFreeSlots)};
 
-            // Save unit update instances in a log file
-            for (int j = 0; j < updatedSlots.length; j++) {
-                saveUnitUpdateLog(i, j, clashFreeSlots[j], updatedSlots[j]);
-            }
         }
     }
 
-    public void saveUnitUpdateLog(int iteration, int index, int originalSlot, int updatedSlot) {
-        try {
-            logFile = new LogFile("unit_update_log.txt"); // Open log file in append mode
-            logFile.write("Iteration: " + iteration + ", Index: " + index +
-                    ", Original Slot: " + originalSlot + ", Updated Slot: " + updatedSlot);
-            logFile.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-            // Handle the exception
-        }
-    }
 
     // Main method
     public static void main(String[] args) {
@@ -234,11 +204,7 @@ public class TimeTable extends JFrame implements ActionListener {
         });
 
         // Set parameters, load clash information, and start scheduling
-        timeTable.field[0].setText("10");
-        timeTable.field[1].setText("381");
-        timeTable.field[2].setText("ute-s-92.stu");
-        timeTable.field[3].setText("4");
-        timeTable.field[4].setText("7");
+
         timeTable.tool[0].doClick(); // Click the Load button to load clashes
         timeTable.tool[1].doClick(); // Click the Start button to start scheduling
 
