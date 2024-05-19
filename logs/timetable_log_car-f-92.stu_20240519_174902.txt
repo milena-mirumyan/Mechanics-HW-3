@@ -1,0 +1,1 @@
+NumOfSlots = 28	NumOfCourses = 543	Iterations = 5	Shift = 7	Min clashes = 1644	at step 5
