@@ -1,0 +1,5 @@
+For ute-s-92 
+NumOfSlots = 10	NumOfCourses = 184	Iterations = 5	Shift = 7	Min clashes = 0	at step 5
+
+For car-s-92
+NumOfSlots = 35(should be 28 optimal)	NumOfCourses = 543	Iterations = 5	Shift = 7	Min clashes = 578	at step 5
